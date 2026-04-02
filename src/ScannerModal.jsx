@@ -113,6 +113,7 @@ const ScannerModal = ({ isOpen, onScan, onClose }) => {
           </p>
         </div>
       </div>
+      
     </div>
   );
 };

@@ -14,6 +14,7 @@ const Icon = ({ name, className = "" }) => {
     strokeLinejoin: "round",
     className
   };
+  
 
   if (name === "chevron") {
     return (
